@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/1590-make-sum-divisible-by-p) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -38,8 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Geometry
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
