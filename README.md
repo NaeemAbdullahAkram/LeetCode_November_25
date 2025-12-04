@@ -46,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/3625-count-number-of-trapezoids-ii) |
+## String
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/2211-count-collisions-on-a-road) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/2211-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/NaeemAbdullahAkram/LeetCode_November_25/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
